@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Virtual Environments
+venv/
+.env/
+.env.bak/
+.venv/
+
+# Logs
+*.log
+
+# Bytecode and compiled files
+*.pyc
+
+# JAC compiled files (if any)
+*.jacd
+
+# Output files
+*.out
+*.tmp
+
+# Don't track this folder
+dont_copy/
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+
+# PyInstaller
+dist/
+build/
+*.spec
